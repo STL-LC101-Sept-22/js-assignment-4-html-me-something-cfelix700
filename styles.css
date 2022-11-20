@@ -1,1 +1,16 @@
 /* Write your CSS here! */
+body {
+margin: 8px;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 30px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+}
